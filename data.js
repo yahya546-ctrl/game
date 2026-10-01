@@ -4,8 +4,8 @@
    ============================================================ */
 
 const SITE = {
-  name: "Your Name",                       // اسمك
-  logo: "YN",                              // حروف الشعار
+  name: "Helal Studio",                       // اسمك
+  logo: "HS",                              // حروف الشعار
   tagline: "Indie Game Developer",
   hero: "I build small worlds that are big on fun.",
   about: "Placeholder: I'm an independent game developer who loves crafting tight gameplay, bold art and memorable worlds. I design, code and ship games solo and with small teams.",
