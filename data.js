@@ -33,8 +33,8 @@ const PROJECTS = [
    video: رابط تضمين يوتيوب مثل "https://www.youtube.com/embed/XXXXXXXX" أو اتركه فارغًا. */
 const GAMES = [
   {
-    id: "neon-runner",
-    title: "Neon Runner",
+    id: "summer-games",
+    title: "Summer Games",
     genre: "Arcade / Runner",
     short: "Sprint through a glowing cyber city and dodge everything.",
     description: "Placeholder: Neon Runner is a fast, rhythmic endless runner set in a glowing cyber city. Read the patterns, chain perfect dodges and beat your best score.",
