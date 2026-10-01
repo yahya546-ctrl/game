@@ -42,7 +42,7 @@ const GAMES = [
     platform: "PC, Web, Android",
     release: "2025",
     status: "Released",
-    playUrl: "games/my-game/html/index.html", playLabel: "Play Now",
+    playUrl: "games/my-game/html", playLabel: "Play Now",
     cover: "", screenshots: ["", "", ""], video: "",
     accent: "#7c5cff"
   },
